@@ -76,21 +76,18 @@
         └── fonts/                             * @font-face-ready webfonts
 
 ```
-
 ## Requirements
 
-- [Node.js](http://nodejs.org/)
 - Build sytem: [Grunt](http://gruntjs.com/) or [Gulp](http://gulpjs.com/)
 - Optionally:
   * [Editorconfig](http://editorconfig.org/)
 
 #### Editorconfig
-
 This project has an .editorconfig file at the root. It describes indent style, trailing whitespaces etc. See more details [here](http://editorconfig.org/)
 
 ## How to start
 
-If you haven't used [Gulp](http://gulpjs.com/) before, be sure to check out the [Getting Started]([https://github.com/gulpjs/gulp/blob/master/docs/README.md](https://gulpjs.com/docs/en/getting-started/quick-start)) guide, also check these [recips](https://github.com/gulpjs/gulp/tree/master/docs/recipes#recipes)
+If you haven't used [Gulp](http://gulpjs.com/) before, be sure to check out the [Getting Started]([https://github.com/gulpjs/gulp/blob/master/docs/README.md]
 
 Before start you need to have installed _npm_ , as well as _gulp_ globally.
 
@@ -103,7 +100,6 @@ Before start you need to have installed _npm_ , as well as _gulp_ globally.
 
 This boilerplate uses Pug templates with external data configs.
 Main settings can be found in `dev/data/config.json` file. And they're available for usage in templates with `config.key-name`
-
 ## Tasks
 
 Here comes groups ofgulp tasks with some explanations
@@ -114,7 +110,6 @@ Remove placeholders from work directories.
 Gulp: `gulp cleanup`
 
 * Remove gitkeep files
-
 #### Dev
 
 Dev task with static server.
@@ -128,7 +123,6 @@ Gulp: `gulp dev`
 * Sync images
 * Run BrowserSync static server with live reload using
 * Watch for changes and run dev task
-
 
 #### Build
 
@@ -156,18 +150,14 @@ Gulp: `gulp rebuild`
 * Minify stylesheets
 * Minify html
 
-
 #### Server
 
-Run server without watching for changes.
 Gulp: `gulp server`
 
 * Run BrowserSync static server
 
 
 ## Live reload
-
-This project uses BrowserSync as static server with enabled and configured live reload option.
 
 ## License
 
