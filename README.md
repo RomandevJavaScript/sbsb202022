@@ -1,10 +1,6 @@
 # Webstudio responsive website template - ARCHIVED
 
-Nice website template coded by [Maxim Orlov](https://github.com/orlovmax).
 
-
-![Mockup demo](screenshots/pic.jpg)
-Product mockup created with [http://frame.lab25.co.uk/](http://frame.lab25.co.uk/)
 
 ## Contents
 
