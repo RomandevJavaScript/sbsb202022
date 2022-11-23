@@ -2,7 +2,6 @@
 
 Nice website template coded by [Maxim Orlov](https://github.com/orlovmax).
 
-Demo: [http://website-templates.github.io/webstudio_responsive-template](http://website-templates.github.io/webstudio_responsive-template/)
 
 ![Mockup demo](screenshots/pic.jpg)
 Product mockup created with [http://frame.lab25.co.uk/](http://frame.lab25.co.uk/)
@@ -176,4 +175,3 @@ This project uses BrowserSync as static server with enabled and configured live 
 
 ## License
 
-[MIT](https://github.com/website-templates/webstudio_responsive-template/blob/master/LICENSE.md)
