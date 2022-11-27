@@ -80,10 +80,9 @@
 
 - Build sytem: [Grunt](http://gruntjs.com/) or [Gulp](http://gulpjs.com/)
 - Optionally:
-  * [Editorconfig](http://editorconfig.org/)
 
 #### Editorconfig
-This project has an .editorconfig file at the root. It describes indent style, trailing whitespaces etc. See more details [here](http://editorconfig.org/)
+This project has an .editorconfig file at the root. It describes indent style, trailing whitespaces etc. See more details 
 
 ## How to start
 
