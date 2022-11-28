@@ -88,8 +88,6 @@ This project has an .editorconfig file at the root. It describes indent style, t
 
 If you haven't used [Gulp](http://gulpjs.com/) before, be sure to check out the [Getting Started]([https://github.com/gulpjs/gulp/blob/master/docs/README.md]
 
-Before start you need to have installed _npm_ , as well as _gulp_ globally.
-
 **A few simple steps to start:**
 * Install dependencies from `package.json` by running: `npm install`.
 * Run tasks from the list below and start devevelopment!
